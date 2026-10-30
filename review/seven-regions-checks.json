@@ -1,0 +1,44 @@
+[
+  {
+    "region": "Antebraço",
+    "cases": 7,
+    "anatomicalLeakPixels": 0,
+    "sideCompression": 0.436
+  },
+  {
+    "region": "Braço",
+    "cases": 7,
+    "anatomicalLeakPixels": 0,
+    "sideCompression": 0.436
+  },
+  {
+    "region": "Ombro",
+    "cases": 7,
+    "anatomicalLeakPixels": 0,
+    "sideCompression": 0.473
+  },
+  {
+    "region": "Coxa",
+    "cases": 7,
+    "anatomicalLeakPixels": 0,
+    "sideCompression": 0.485
+  },
+  {
+    "region": "Panturrilha",
+    "cases": 7,
+    "anatomicalLeakPixels": 0,
+    "sideCompression": 0.436
+  },
+  {
+    "region": "Peito",
+    "cases": 7,
+    "anatomicalLeakPixels": 0,
+    "sideCompression": 0.875
+  },
+  {
+    "region": "Costas",
+    "cases": 7,
+    "anatomicalLeakPixels": 0,
+    "sideCompression": 0.67
+  }
+]

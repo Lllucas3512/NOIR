@@ -1,0 +1,38 @@
+{
+  "cause": "Forearm mask was inset from the photographed silhouette; mapping remains continuous and unchanged.",
+  "shaderFrames": 24,
+  "photoEdgeSamples": [
+    {
+      "row": 50,
+      "photoEdge": 648,
+      "oldMaskEdge": 641,
+      "newMaskEdge": 647
+    },
+    {
+      "row": 150,
+      "photoEdge": 644,
+      "oldMaskEdge": 636,
+      "newMaskEdge": 643
+    },
+    {
+      "row": 300,
+      "photoEdge": 624,
+      "oldMaskEdge": 610,
+      "newMaskEdge": 622
+    },
+    {
+      "row": 450,
+      "photoEdge": 588,
+      "oldMaskEdge": 579,
+      "newMaskEdge": 587
+    },
+    {
+      "row": 600,
+      "photoEdge": 563,
+      "oldMaskEdge": 559,
+      "newMaskEdge": 562
+    }
+  ],
+  "gridReachedSkinEdge": true,
+  "mappingAndBlend": "unchanged"
+}

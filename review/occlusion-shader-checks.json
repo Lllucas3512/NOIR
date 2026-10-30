@@ -1,0 +1,49 @@
+{
+  "renderer": "llvmpipe (LLVM 20.1.2, 256 bits)",
+  "frames": 63,
+  "shaderCompilation": "passed",
+  "regions": [
+    {
+      "region": "Antebra\u00e7o",
+      "cases": 9,
+      "leakedPixels": 0,
+      "centerMaxChannelDifference": 0
+    },
+    {
+      "region": "Bra\u00e7o",
+      "cases": 9,
+      "leakedPixels": 0,
+      "centerMaxChannelDifference": 0
+    },
+    {
+      "region": "Ombro",
+      "cases": 9,
+      "leakedPixels": 0,
+      "centerMaxChannelDifference": 0
+    },
+    {
+      "region": "Coxa",
+      "cases": 9,
+      "leakedPixels": 0,
+      "centerMaxChannelDifference": 0
+    },
+    {
+      "region": "Panturrilha",
+      "cases": 9,
+      "leakedPixels": 0,
+      "centerMaxChannelDifference": 0
+    },
+    {
+      "region": "Peito",
+      "cases": 9,
+      "leakedPixels": 0,
+      "centerMaxChannelDifference": 0
+    },
+    {
+      "region": "Costas",
+      "cases": 9,
+      "leakedPixels": 0,
+      "centerMaxChannelDifference": 0
+    }
+  ]
+}

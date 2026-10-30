@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+.pnp/
+.pnp.*
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Cloudflare
+.wrangler/
+.dev.vars
+
+# Cache
+.cache/
+.turbo/
+.sites-runtime/
+outputs/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Editor and system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

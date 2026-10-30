@@ -1,0 +1,26 @@
+{
+  "baseline": "v7",
+  "initialMediaAndDataBytesBefore": 7023642,
+  "initialMediaAndDataBytesAfter": 4053749,
+  "reductionPercent": 42.28,
+  "initialJsBytesBefore": 49906,
+  "initialJsBytesAfter": 12490,
+  "initialJsGzipBytesBefore": 19946,
+  "initialJsGzipBytesAfter": 5544,
+  "images": [
+    {
+      "asset": "hero",
+      "beforeBytes": 1808715,
+      "afterBytes": 1251044,
+      "exactRgbaMatch": true
+    },
+    {
+      "asset": "editorial",
+      "beforeBytes": 2399696,
+      "afterBytes": 1555714,
+      "exactRgbaMatch": true
+    }
+  ],
+  "notes": "File byte counts, not measured browser transfer or elapsed loading time. Media/data excludes fonts, HTML, CSS, HTTP compression and headers. Entry at top of page before approaching below-fold sections. Original PNG sources retained but not requested. WOFF2 uses identical original font families/styles/weights, font-display swap; only used faces fetched. No browser Core Web Vitals available.",
+  "tattoo": "Original PNG preserved: native Canvas WebP/PNG premultiplication differed despite identical decoded RGBA in Pillow."
+}

@@ -1,0 +1,49 @@
+{
+  "startupBodyRequests": 0,
+  "nearSimulatorBodyRequests": 1,
+  "regionCount": 7,
+  "maxConcurrentRegionLoads": 1,
+  "cacheReusedWithoutNewLoads": true,
+  "latestSelectionWins": true,
+  "backgroundPreemptedForSelection": true,
+  "gpuRegionLimit": 3,
+  "cpuRegionLimit": 7,
+  "maxCachedRgbaPixelBytes": 64800000,
+  "timings": [
+    {
+      "region": 0,
+      "warmSelectionPreparationMs": 0.07
+    },
+    {
+      "region": 1,
+      "coldWith35msArtificialDelay": 130.79,
+      "warmSelectionPreparationMs": 0.329
+    },
+    {
+      "region": 2,
+      "coldWith35msArtificialDelay": 152.3,
+      "warmSelectionPreparationMs": 0.186
+    },
+    {
+      "region": 3,
+      "coldWith35msArtificialDelay": 159.08,
+      "warmSelectionPreparationMs": 0.143
+    },
+    {
+      "region": 4,
+      "coldWith35msArtificialDelay": 95.35,
+      "warmSelectionPreparationMs": 0.119
+    },
+    {
+      "region": 5,
+      "coldWith35msArtificialDelay": 139.08,
+      "warmSelectionPreparationMs": 0.094
+    },
+    {
+      "region": 6,
+      "coldWith35msArtificialDelay": 198.24,
+      "warmSelectionPreparationMs": 0.109
+    }
+  ],
+  "note": "Native Canvas + simulated 35ms transport delay; selection timings exclude render, and are not browser/network/FPS measurements."
+}

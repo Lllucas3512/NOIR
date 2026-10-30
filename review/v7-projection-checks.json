@@ -1,0 +1,305 @@
+{
+  "forearmNineFramesMaxPixelDifference": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "gridFrames": 35,
+  "skinEdgeProbeFrames": 6,
+  "photoLandmarks": [
+    {
+      "region": "Bra\u00e7o",
+      "row": 300,
+      "side": "left",
+      "photoEdge": 146,
+      "newEdge": 146,
+      "oldEdge": 155
+    },
+    {
+      "region": "Bra\u00e7o",
+      "row": 300,
+      "side": "right",
+      "photoEdge": 647,
+      "newEdge": 646,
+      "oldEdge": 646
+    },
+    {
+      "region": "Bra\u00e7o",
+      "row": 450,
+      "side": "left",
+      "photoEdge": 165,
+      "newEdge": 165,
+      "oldEdge": 173
+    },
+    {
+      "region": "Bra\u00e7o",
+      "row": 450,
+      "side": "right",
+      "photoEdge": 639,
+      "newEdge": 638,
+      "oldEdge": 633
+    },
+    {
+      "region": "Bra\u00e7o",
+      "row": 600,
+      "side": "left",
+      "photoEdge": 181,
+      "newEdge": 181,
+      "oldEdge": 205
+    },
+    {
+      "region": "Bra\u00e7o",
+      "row": 600,
+      "side": "right",
+      "photoEdge": 617,
+      "newEdge": 616,
+      "oldEdge": 612
+    },
+    {
+      "region": "Ombro",
+      "row": 300,
+      "side": "left",
+      "photoEdge": 130,
+      "newEdge": 130,
+      "oldEdge": 151
+    },
+    {
+      "region": "Ombro",
+      "row": 300,
+      "side": "right",
+      "photoEdge": 635,
+      "newEdge": 634,
+      "oldEdge": 595
+    },
+    {
+      "region": "Ombro",
+      "row": 450,
+      "side": "left",
+      "photoEdge": 73,
+      "newEdge": 73,
+      "oldEdge": 90
+    },
+    {
+      "region": "Ombro",
+      "row": 450,
+      "side": "right",
+      "photoEdge": 659,
+      "newEdge": 658,
+      "oldEdge": 616
+    },
+    {
+      "region": "Ombro",
+      "row": 600,
+      "side": "left",
+      "photoEdge": 57,
+      "newEdge": 57,
+      "oldEdge": 60
+    },
+    {
+      "region": "Ombro",
+      "row": 600,
+      "side": "right",
+      "photoEdge": 631,
+      "newEdge": 630,
+      "oldEdge": 599
+    },
+    {
+      "region": "Coxa",
+      "row": 300,
+      "side": "left",
+      "photoEdge": 145,
+      "newEdge": 145,
+      "oldEdge": 141
+    },
+    {
+      "region": "Coxa",
+      "row": 300,
+      "side": "right",
+      "photoEdge": 724,
+      "newEdge": 723,
+      "oldEdge": 734
+    },
+    {
+      "region": "Coxa",
+      "row": 450,
+      "side": "left",
+      "photoEdge": 163,
+      "newEdge": 162,
+      "oldEdge": 167
+    },
+    {
+      "region": "Coxa",
+      "row": 450,
+      "side": "right",
+      "photoEdge": 728,
+      "newEdge": 727,
+      "oldEdge": 733
+    },
+    {
+      "region": "Coxa",
+      "row": 600,
+      "side": "left",
+      "photoEdge": 199,
+      "newEdge": 200,
+      "oldEdge": 203
+    },
+    {
+      "region": "Coxa",
+      "row": 600,
+      "side": "right",
+      "photoEdge": 726,
+      "newEdge": 725,
+      "oldEdge": 726
+    },
+    {
+      "region": "Panturrilha",
+      "row": 300,
+      "side": "left",
+      "photoEdge": 278,
+      "newEdge": 278,
+      "oldEdge": 284
+    },
+    {
+      "region": "Panturrilha",
+      "row": 300,
+      "side": "right",
+      "photoEdge": 624,
+      "newEdge": 623,
+      "oldEdge": 625
+    },
+    {
+      "region": "Panturrilha",
+      "row": 450,
+      "side": "left",
+      "photoEdge": 314,
+      "newEdge": 312,
+      "oldEdge": 304
+    },
+    {
+      "region": "Panturrilha",
+      "row": 450,
+      "side": "right",
+      "photoEdge": 605,
+      "newEdge": 604,
+      "oldEdge": 617
+    },
+    {
+      "region": "Panturrilha",
+      "row": 600,
+      "side": "left",
+      "photoEdge": 350,
+      "newEdge": 350,
+      "oldEdge": 347
+    },
+    {
+      "region": "Panturrilha",
+      "row": 600,
+      "side": "right",
+      "photoEdge": 583,
+      "newEdge": 582,
+      "oldEdge": 587
+    },
+    {
+      "region": "Peito",
+      "row": 200,
+      "side": "left",
+      "photoEdge": 98,
+      "newEdge": 98,
+      "oldEdge": 97
+    },
+    {
+      "region": "Peito",
+      "row": 200,
+      "side": "right",
+      "photoEdge": 837,
+      "newEdge": 836,
+      "oldEdge": 834
+    },
+    {
+      "region": "Peito",
+      "row": 350,
+      "side": "left",
+      "photoEdge": 115,
+      "newEdge": 115,
+      "oldEdge": 108
+    },
+    {
+      "region": "Peito",
+      "row": 350,
+      "side": "right",
+      "photoEdge": 832,
+      "newEdge": 831,
+      "oldEdge": 827
+    },
+    {
+      "region": "Peito",
+      "row": 500,
+      "side": "left",
+      "photoEdge": 169,
+      "newEdge": 170,
+      "oldEdge": 152
+    },
+    {
+      "region": "Peito",
+      "row": 500,
+      "side": "right",
+      "photoEdge": 791,
+      "newEdge": 790,
+      "oldEdge": 782
+    },
+    {
+      "region": "Costas",
+      "row": 500,
+      "side": "left",
+      "photoEdge": 16,
+      "newEdge": 16,
+      "oldEdge": 13
+    },
+    {
+      "region": "Costas",
+      "row": 500,
+      "side": "right",
+      "photoEdge": 877,
+      "newEdge": 876,
+      "oldEdge": 888
+    },
+    {
+      "region": "Costas",
+      "row": 650,
+      "side": "left",
+      "photoEdge": 57,
+      "newEdge": 58,
+      "oldEdge": 62
+    },
+    {
+      "region": "Costas",
+      "row": 650,
+      "side": "right",
+      "photoEdge": 832,
+      "newEdge": 831,
+      "oldEdge": 835
+    },
+    {
+      "region": "Costas",
+      "row": 800,
+      "side": "left",
+      "photoEdge": 122,
+      "newEdge": 121,
+      "oldEdge": 115
+    },
+    {
+      "region": "Costas",
+      "row": 800,
+      "side": "right",
+      "photoEdge": 768,
+      "newEdge": 767,
+      "oldEdge": 783
+    }
+  ]
+}
